@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\Moq.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\Ninject.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\Ninject.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\Ninject.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
